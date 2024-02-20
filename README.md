@@ -35,7 +35,7 @@ Isolation, uygulama katmanında birden fazla transaction varsa her bir transacti
 
 -**SetPriority**, bir iş parçacığının çalışma önceliğini belirler.
 
--*GetPriority*, bir iş parçacığının önceliğini belirler.
+-**GetPriority**, bir iş parçacığının önceliğini belirler.
 
 
 
