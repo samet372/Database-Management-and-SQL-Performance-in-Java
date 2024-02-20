@@ -3,6 +3,7 @@
   <br>
    <br>
     <br>
+    
 ## Spring Transaction Yönetimi - @Transactional Annotasyonu
 
 Transaction, veritabanı üzerinde yapılan birden çok işlemin bir bütün olarak işlenmesini ve hata durumunda bunların geri alınmasını sağlar. Bu sayede veritabanındaki kayıtlarda tutarsızlık oluşması engellenir ve veri bütünlüğü sağlanır.
