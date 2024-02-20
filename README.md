@@ -44,7 +44,9 @@ Isolation, uygulama katmanında birden fazla transaction varsa her bir transacti
 Java'da synchronized anahtar kelimesi, bir kod bloğuna sadece bir iş parçacığının aynı anda erişebileceğini ve diğerlerinin onun bitmesini beklemesi gerektiğini belirtir.
 
 -**Wait**, senkronize edilmemiş bir durumun serbest kalmasını beklemek için kullanılır.
+
 -**Notify**, kilitli bir nesnenin serbest olduğunu bildirir.
+
 -**NotifyAll**, kilitli nesnelerin tümünün serbest olduğunu bildirir.
 
 
