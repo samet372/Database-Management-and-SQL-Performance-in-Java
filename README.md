@@ -1,6 +1,8 @@
 # Database-Management-and-SQL-Performance-in-Java    
 ### Bu makalede, Java programlama dilinde veritabanı yönetimi konusunu ele alacak ve SQL performansını artırmak için izolasyon seviyelerinden index optimizasyonuna kadar çeşitli konuları inceleyeceğiz.      
-  
+  <br>
+   <br>
+    <br>
 ## Spring Transaction Yönetimi - @Transactional Annotasyonu
 
 Transaction, veritabanı üzerinde yapılan birden çok işlemin bir bütün olarak işlenmesini ve hata durumunda bunların geri alınmasını sağlar. Bu sayede veritabanındaki kayıtlarda tutarsızlık oluşması engellenir ve veri bütünlüğü sağlanır.
