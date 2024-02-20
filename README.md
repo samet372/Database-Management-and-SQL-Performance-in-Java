@@ -2,7 +2,6 @@
 ### Bu makalede, Java programlama dilinde veritabanı yönetimi konusunu ele alacak ve SQL performansını artırmak için izolasyon seviyelerinden index optimizasyonuna kadar çeşitli konuları inceleyeceğiz.      
   <br>
    <br>
-    <br>
     
 ## Spring Transaction Yönetimi - @Transactional Annotasyonu
 
