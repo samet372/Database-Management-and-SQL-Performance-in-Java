@@ -1,5 +1,5 @@
 # Database-Management-and-SQL-Performance-in-Java
-### This article will delve into database management in Java, covering various topics from isolation levels to index optimization for enhancing SQL performance.
+### Bu makalede, Java programlama dilinde veritabanı yönetimi konusunu ele alacak ve SQL performansını artırmak için izolasyon seviyelerinden index optimizasyonuna kadar çeşitli konuları inceleyeceğiz.
 
 
 
